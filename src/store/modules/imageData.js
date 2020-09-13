@@ -13,7 +13,7 @@ export default {
         },
         async fetchCurrentImage({ commit }, id) {
             try {
-                const response = await axios.get(`http://localhost:3000/images/${id}?_embed=comments`);
+                const response = await axios.get(`https://my-cool-projectfefef.herokuapp.com/images/${id}?_embed=comments`);
                 commit('updateCurrentImage', response.data)
             } catch (error) {
                 console.log(error);
@@ -21,7 +21,7 @@ export default {
         },
         async addComment({ commit }, { id, ...comment }) {
             try {
-                const response = await axios.post(`http://localhost:3000/images/${id}/comments`, comment)
+                const response = await axios.post(`https://my-cool-projectfefef.herokuapp.com/images/${id}/comments`, comment)
                 commit('updateCurrentImageComment', response.data)
             } catch (error) { console.log(error) };
         },
