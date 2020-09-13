@@ -1,0 +1,3 @@
+{
+    "/images/:id/comments": "/comments?imageId=:id"
+}

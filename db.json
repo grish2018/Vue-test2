@@ -1,0 +1,86 @@
+{
+  "images": [
+    {
+      "id": 237,
+      "url": "https://picsum.photos/id/237/300/200"
+    },
+    {
+      "id": 238,
+      "url": "https://picsum.photos/id/238/300/200"
+    },
+    {
+      "id": 239,
+      "url": "https://picsum.photos/id/239/300/200"
+    },
+    {
+      "id": 240,
+      "url": "https://picsum.photos/id/240/300/200"
+    },
+    {
+      "id": 241,
+      "url": "https://picsum.photos/id/241/300/200"
+    },
+    {
+      "id": 242,
+      "url": "https://picsum.photos/id/242/300/200"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "imageId": 237,
+      "body": "Отличное фото",
+      "date": "18.12.2019",
+      "author": "Vasya"
+    },
+    {
+      "id": 2,
+      "imageId": 237,
+      "body": "Я тут был, очень понравилось",
+      "date": "18.12.2019",
+      "author": "Vasya"
+    },
+    {
+      "id": 3,
+      "imageId": 238,
+      "body": "Отличное фото",
+      "date": "18.12.2019",
+      "author": "Vasya"
+    },
+    {
+      "id": 4,
+      "imageId": 238,
+      "body": "Я тут был, очень понравилось",
+      "date": "18.12.2019",
+      "author": "Vasya"
+    },
+    {
+      "id": 5,
+      "imageId": 239,
+      "body": "Отличное фото",
+      "date": "18.12.2019",
+      "author": "Vasya"
+    },
+    {
+      "id": 6,
+      "imageId": 239,
+      "body": "Я тут был, очень понравилось",
+      "date": "18.12.2019",
+      "author": "Vasya"
+    },
+    {
+      "id": 7,
+      "imageId": 240,
+      "body": "Отличное фото",
+      "date": "18.12.2019",
+      "author": "Vasya"
+    },
+    {
+      "id": 8,
+      "imageId": 241,
+      "body": "Я тут был, очень понравилось",
+      "date": "18.12.2019",
+      "author": "Vasya"
+    }
+  ]
+}
